@@ -1,0 +1,10 @@
+C:\Users\kangs\source\repos\001_Euclid_sohee\004_Hanoi_sohee\bin\Debug\004_Hanoi_sohee.exe.config
+C:\Users\kangs\source\repos\001_Euclid_sohee\004_Hanoi_sohee\bin\Debug\004_Hanoi_sohee.exe
+C:\Users\kangs\source\repos\001_Euclid_sohee\004_Hanoi_sohee\bin\Debug\004_Hanoi_sohee.pdb
+C:\Users\kangs\source\repos\001_Euclid_sohee\004_Hanoi_sohee\obj\Debug\004_Hanoi_sohee.csproj.AssemblyReference.cache
+C:\Users\kangs\source\repos\001_Euclid_sohee\004_Hanoi_sohee\obj\Debug\_004_Hanoi_sohee.Form1.resources
+C:\Users\kangs\source\repos\001_Euclid_sohee\004_Hanoi_sohee\obj\Debug\_004_Hanoi_sohee.Properties.Resources.resources
+C:\Users\kangs\source\repos\001_Euclid_sohee\004_Hanoi_sohee\obj\Debug\004_Hanoi_sohee.csproj.GenerateResource.cache
+C:\Users\kangs\source\repos\001_Euclid_sohee\004_Hanoi_sohee\obj\Debug\004_Hanoi_sohee.csproj.CoreCompileInputs.cache
+C:\Users\kangs\source\repos\001_Euclid_sohee\004_Hanoi_sohee\obj\Debug\004_Hanoi_sohee.exe
+C:\Users\kangs\source\repos\001_Euclid_sohee\004_Hanoi_sohee\obj\Debug\004_Hanoi_sohee.pdb
