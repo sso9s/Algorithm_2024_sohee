@@ -1,0 +1,7 @@
+C:\Users\kangs\source\repos\001_Euclid_sohee\007_Prim’s MST\bin\Debug\007_Prim’s MST.exe.config
+C:\Users\kangs\source\repos\001_Euclid_sohee\007_Prim’s MST\bin\Debug\007_Prim’s MST.exe
+C:\Users\kangs\source\repos\001_Euclid_sohee\007_Prim’s MST\bin\Debug\007_Prim’s MST.pdb
+C:\Users\kangs\source\repos\001_Euclid_sohee\007_Prim’s MST\obj\Debug\007_Prim’s MST.csproj.AssemblyReference.cache
+C:\Users\kangs\source\repos\001_Euclid_sohee\007_Prim’s MST\obj\Debug\007_Prim’s MST.csproj.CoreCompileInputs.cache
+C:\Users\kangs\source\repos\001_Euclid_sohee\007_Prim’s MST\obj\Debug\007_Prim’s MST.exe
+C:\Users\kangs\source\repos\001_Euclid_sohee\007_Prim’s MST\obj\Debug\007_Prim’s MST.pdb
