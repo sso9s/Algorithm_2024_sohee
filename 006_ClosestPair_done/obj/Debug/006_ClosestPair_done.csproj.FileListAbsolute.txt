@@ -1,0 +1,30 @@
+C:\Users\kangs\Downloads\005_ClosestPair (1)\bin\Debug\005_ClosestPair.exe.config
+C:\Users\kangs\Downloads\005_ClosestPair (1)\bin\Debug\005_ClosestPair.exe
+C:\Users\kangs\Downloads\005_ClosestPair (1)\bin\Debug\005_ClosestPair.pdb
+C:\Users\kangs\Downloads\005_ClosestPair (1)\obj\Debug\006_ClosestPair_done.csproj.AssemblyReference.cache
+C:\Users\kangs\Downloads\005_ClosestPair (1)\obj\Debug\MainWindow.g.cs
+C:\Users\kangs\Downloads\005_ClosestPair (1)\obj\Debug\App.g.cs
+C:\Users\kangs\Downloads\005_ClosestPair (1)\obj\Debug\005_ClosestPair_MarkupCompile.cache
+C:\Users\kangs\Downloads\005_ClosestPair (1)\obj\Debug\005_ClosestPair_MarkupCompile.lref
+C:\Users\kangs\Downloads\005_ClosestPair (1)\obj\Debug\MainWindow.baml
+C:\Users\kangs\Downloads\005_ClosestPair (1)\obj\Debug\005_ClosestPair.g.resources
+C:\Users\kangs\Downloads\005_ClosestPair (1)\obj\Debug\_005_ClosestPair.Properties.Resources.resources
+C:\Users\kangs\Downloads\005_ClosestPair (1)\obj\Debug\006_ClosestPair_done.csproj.GenerateResource.cache
+C:\Users\kangs\Downloads\005_ClosestPair (1)\obj\Debug\006_ClosestPair_done.csproj.CoreCompileInputs.cache
+C:\Users\kangs\Downloads\005_ClosestPair (1)\obj\Debug\005_ClosestPair.exe
+C:\Users\kangs\Downloads\005_ClosestPair (1)\obj\Debug\005_ClosestPair.pdb
+C:\Users\kangs\Downloads\006_ClosestPair_done\bin\Debug\005_ClosestPair.exe.config
+C:\Users\kangs\Downloads\006_ClosestPair_done\bin\Debug\005_ClosestPair.exe
+C:\Users\kangs\Downloads\006_ClosestPair_done\bin\Debug\005_ClosestPair.pdb
+C:\Users\kangs\Downloads\006_ClosestPair_done\obj\Debug\006_ClosestPair_done.csproj.AssemblyReference.cache
+C:\Users\kangs\Downloads\006_ClosestPair_done\obj\Debug\MainWindow.g.cs
+C:\Users\kangs\Downloads\006_ClosestPair_done\obj\Debug\App.g.cs
+C:\Users\kangs\Downloads\006_ClosestPair_done\obj\Debug\005_ClosestPair_MarkupCompile.cache
+C:\Users\kangs\Downloads\006_ClosestPair_done\obj\Debug\005_ClosestPair_MarkupCompile.lref
+C:\Users\kangs\Downloads\006_ClosestPair_done\obj\Debug\MainWindow.baml
+C:\Users\kangs\Downloads\006_ClosestPair_done\obj\Debug\005_ClosestPair.g.resources
+C:\Users\kangs\Downloads\006_ClosestPair_done\obj\Debug\_005_ClosestPair.Properties.Resources.resources
+C:\Users\kangs\Downloads\006_ClosestPair_done\obj\Debug\006_ClosestPair_done.csproj.GenerateResource.cache
+C:\Users\kangs\Downloads\006_ClosestPair_done\obj\Debug\006_ClosestPair_done.csproj.CoreCompileInputs.cache
+C:\Users\kangs\Downloads\006_ClosestPair_done\obj\Debug\005_ClosestPair.exe
+C:\Users\kangs\Downloads\006_ClosestPair_done\obj\Debug\005_ClosestPair.pdb
