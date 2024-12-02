@@ -1,0 +1,7 @@
+C:\Users\kangs\source\repos\001_Euclid_sohee\013_chained\bin\Debug\013_chained.exe.config
+C:\Users\kangs\source\repos\001_Euclid_sohee\013_chained\bin\Debug\013_chained.exe
+C:\Users\kangs\source\repos\001_Euclid_sohee\013_chained\bin\Debug\013_chained.pdb
+C:\Users\kangs\source\repos\001_Euclid_sohee\013_chained\obj\Debug\013_chained.csproj.AssemblyReference.cache
+C:\Users\kangs\source\repos\001_Euclid_sohee\013_chained\obj\Debug\013_chained.csproj.CoreCompileInputs.cache
+C:\Users\kangs\source\repos\001_Euclid_sohee\013_chained\obj\Debug\013_chained.exe
+C:\Users\kangs\source\repos\001_Euclid_sohee\013_chained\obj\Debug\013_chained.pdb

@@ -1,0 +1,7 @@
+C:\Users\kangs\source\repos\001_Euclid_sohee\010_Huffman\bin\Debug\010_Huffman.exe.config
+C:\Users\kangs\source\repos\001_Euclid_sohee\010_Huffman\bin\Debug\010_Huffman.exe
+C:\Users\kangs\source\repos\001_Euclid_sohee\010_Huffman\bin\Debug\010_Huffman.pdb
+C:\Users\kangs\source\repos\001_Euclid_sohee\010_Huffman\obj\Debug\010_Huffman.csproj.AssemblyReference.cache
+C:\Users\kangs\source\repos\001_Euclid_sohee\010_Huffman\obj\Debug\010_Huffman.csproj.CoreCompileInputs.cache
+C:\Users\kangs\source\repos\001_Euclid_sohee\010_Huffman\obj\Debug\010_Huffman.exe
+C:\Users\kangs\source\repos\001_Euclid_sohee\010_Huffman\obj\Debug\010_Huffman.pdb

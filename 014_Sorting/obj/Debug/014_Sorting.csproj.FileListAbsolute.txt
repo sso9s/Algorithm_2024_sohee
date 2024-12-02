@@ -1,0 +1,7 @@
+C:\Users\kangs\source\repos\001_Euclid_sohee\014_Sorting\bin\Debug\014_Sorting.exe.config
+C:\Users\kangs\source\repos\001_Euclid_sohee\014_Sorting\bin\Debug\014_Sorting.exe
+C:\Users\kangs\source\repos\001_Euclid_sohee\014_Sorting\bin\Debug\014_Sorting.pdb
+C:\Users\kangs\source\repos\001_Euclid_sohee\014_Sorting\obj\Debug\014_Sorting.csproj.AssemblyReference.cache
+C:\Users\kangs\source\repos\001_Euclid_sohee\014_Sorting\obj\Debug\014_Sorting.csproj.CoreCompileInputs.cache
+C:\Users\kangs\source\repos\001_Euclid_sohee\014_Sorting\obj\Debug\014_Sorting.exe
+C:\Users\kangs\source\repos\001_Euclid_sohee\014_Sorting\obj\Debug\014_Sorting.pdb

@@ -1,0 +1,7 @@
+C:\Users\kangs\source\repos\001_Euclid_sohee\011_tiling\bin\Debug\011_tiling.exe.config
+C:\Users\kangs\source\repos\001_Euclid_sohee\011_tiling\bin\Debug\011_tiling.exe
+C:\Users\kangs\source\repos\001_Euclid_sohee\011_tiling\bin\Debug\011_tiling.pdb
+C:\Users\kangs\source\repos\001_Euclid_sohee\011_tiling\obj\Debug\011_tiling.csproj.AssemblyReference.cache
+C:\Users\kangs\source\repos\001_Euclid_sohee\011_tiling\obj\Debug\011_tiling.csproj.CoreCompileInputs.cache
+C:\Users\kangs\source\repos\001_Euclid_sohee\011_tiling\obj\Debug\011_tiling.exe
+C:\Users\kangs\source\repos\001_Euclid_sohee\011_tiling\obj\Debug\011_tiling.pdb
